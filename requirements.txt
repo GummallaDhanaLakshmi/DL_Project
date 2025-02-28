@@ -59,21 +59,15 @@ contourpy==1.3.1
 cramjam==2.9.1
 cryptography==43.0.3
 cuda-python==12.6.0
-cudf-cu12 @ https://pypi.nvidia.com/cudf-cu12/cudf_cu12-24.12.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 cudf-polars-cu12==24.12.0
 cufflinks==0.17.3
-cuml-cu12==24.12.0
-cupy-cuda12x==13.3.0
-cuvs-cu12==24.12.0
 cvxopt==1.3.2
 cvxpy==1.6.1
 cycler==0.12.1
-cyipopt==1.5.0
 cymem==2.0.11
 Cython==3.0.12
 dask==2024.11.2
 dask-cuda==24.12.0
-dask-cudf-cu12==24.12.0
 dask-expr==1.1.19
 datascience==0.17.6
 db-dtypes==1.4.1
@@ -263,7 +257,6 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
-libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-24.12.0-py3-none-manylinux_2_28_x86_64.whl
 libkvikio-cu12==24.12.1
 librosa==0.10.2.post1
 libucx-cu12==1.17.0.post1
@@ -409,7 +402,6 @@ pygit2==1.17.0
 Pygments==2.18.0
 PyGObject==3.42.1
 PyJWT==2.10.1
-pylibcudf-cu12 @ https://pypi.nvidia.com/pylibcudf-cu12/pylibcudf_cu12-24.12.0-cp311-cp311-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl
 pylibcugraph-cu12==24.12.0
 pylibraft-cu12==24.12.0
 pymc==5.20.1
@@ -535,9 +527,7 @@ tokenizers==0.21.0
 toml==0.10.2
 toolz==0.12.1
 torch @ https://download.pytorch.org/whl/cu124/torch-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
-torchaudio @ https://download.pytorch.org/whl/cu124/torchaudio-2.5.1%2Bcu124-cp311-cp311-linux_x86_64.whl
 torchsummary==1.5.1
-torchvision @ https://download.pytorch.org/whl/cu124/torchvision-0.20.1%2Bcu124-cp311-cp311-linux_x86_64.whl
 tornado==6.4.2
 tqdm==4.67.1
 traitlets==5.7.1
